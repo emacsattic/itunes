@@ -3,6 +3,8 @@
 ;; Author: Sean O'Rourke <sorourke@cs.ucsd.edu>
 ;; Keywords: multimedia
 
+;; License: Artistic-1.0
+
 ;; This file is free software; you can redistribute it and/or modify
 ;; it under the terms of the Artistic License; see
 ;; http://www.perl.com/language/misc/Artistic.html
